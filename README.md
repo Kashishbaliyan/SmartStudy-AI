@@ -190,6 +190,8 @@ mind-mentor/
 
 ## License
 
+Updated project structure
+
 Apache 2.0 — see [LICENSE](LICENSE)
 
 ---
